@@ -1,0 +1,44 @@
+div{
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: aliceblue;
+    max-width: 500px;
+    height: 300px;
+    padding-top: 100px;
+    margin: 40px 30%;
+    font-size: 35px;
+   
+}
+body{
+    background-image: url("joel-de-vriend-qZ6if8WXl7E-unsplash.jpg");
+    height: 100vh;
+    background-position: center;
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    width: 200px;
+    border-radius: 15px;
+}
+#increment-btn{
+    background: darkred;
+}
+#save-btn{
+  background: darkgreen;
+}
